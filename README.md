@@ -9,7 +9,7 @@ I'm a Web Developer from Poland. Although I mostly focus on frontend , I can als
 * 🖥️  See my portfolio at [My Portfolio](http://ddmuzyka.onrender.com)
 * ✉️  You can contact me at [domino2k1@gmail.com](mailto:domino2k1@gmail.com)
 * 🧠  I'm learning Typescript
-* 🤝  I'm open to collaborating on every kind of project
+* 🤝  I'm open for project collaboration and front-end job opportunities
 
 ### Skills
 
