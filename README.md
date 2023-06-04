@@ -1,4 +1,4 @@
-Hi 👋 My name is Dominik Muzyka
+Hi, my name is Dominik Muzyka
 ===============================
 
 Frontend Developer
