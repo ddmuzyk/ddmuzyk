@@ -38,4 +38,6 @@ I'm a Web Developer from Poland. Although I mostly focus on frontend , I can als
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ddmuzyk&theme=dark)](https://git.io/streak-stats)
 
-<!-- <a href="https://github.com/ddmuzyk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmuzyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<!-- -->
+
+<a href="https://github.com/ddmuzyk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmuzyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
