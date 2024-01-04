@@ -1,10 +1,10 @@
 Hi, my name is Dominik Muzyka
 ===============================
 
-Frontend Developer
+Web Developer
 ------------------
 
-I'm a Web Developer from Poland. Although I mostly focus on frontend , I can also write code for backend to create full stack applications.
+I am a web developer based in Wrocław, Poland. What do I do? I solve problems with code.  Embracing a spectrum of technologies, I am open to exploring different parts of software development.
 
 * 🖥️  See my portfolio at [ddmuzyka.onrender.com](http://ddmuzyka.onrender.com)
 * ✉️  You can contact me at [domino2k1@gmail.com](mailto:domino2k1@gmail.com)
