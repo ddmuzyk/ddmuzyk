@@ -8,7 +8,6 @@ I am a web developer based in Wrocław, Poland. What do I do? I solve problems w
 
 * 🖥️  See my portfolio at [ddmuzyka.onrender.com](http://ddmuzyka.onrender.com)
 * ✉️  You can contact me at [domino2k1@gmail.com](mailto:domino2k1@gmail.com)
-* 🤝  I'm open for project collaboration and front-end job opportunities
 
 ### Skills
 
