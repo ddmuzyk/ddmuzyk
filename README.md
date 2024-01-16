@@ -8,7 +8,7 @@ I am a web developer based in Wrocław, Poland. What do I do? I solve problems w
 
 * 🖥️  See my portfolio at [ddmuzyka.onrender.com](http://ddmuzyka.onrender.com)
 * ✉️  You can contact me at [domino2k1@gmail.com](mailto:domino2k1@gmail.com)
-
+<!--
 ### Skills
 
 
@@ -23,7 +23,7 @@ I am a web developer based in Wrocław, Poland. What do I do? I solve problems w
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
+<!-- -->
 
 ### Socials
 
