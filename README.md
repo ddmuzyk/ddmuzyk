@@ -1,7 +1,7 @@
 Hi, my name is Dominik Muzyka
 ===============================
 
-Web Developer
+Software Developer
 ------------------
 
 I am a web developer based in Wrocław, Poland. What do I do? I solve problems with code.  Embracing a spectrum of technologies, I am open to exploring different parts of software development.
