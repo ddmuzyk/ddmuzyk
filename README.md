@@ -1,9 +1,6 @@
 Hi, my name is Dominik Muzyka
 ===============================
 
-Web Developer
-------------------
-
 I am a web developer based in Wrocław, Poland.
 
 * 🖥️  See my portfolio at [ddmuzyka.onrender.com](http://ddmuzyka.onrender.com)
